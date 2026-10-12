@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper acccepted to FSTTCS 2026 and not this repository version."
+title: "Coupled-Task Scheduling on Paths, Trees and Beyond: filling the gaps of DP with Knapsack"
+type: article
+authors:
+  - family-names: Banerjee
+    given-names: Niranka
+  - family-names: Patra
+    given-names: Praneet Kumar
+  - family-names: Sahu
+    given-names: Abhishek
+
+year: 2026
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Banerjee
+      given-names: Niranka
+    - family-names: Patra
+      given-names: Praneet Kumar
+    - family-names: Sahu
+      given-names: Abhishek
+  title: "Coupled-Task Scheduling on Paths, Trees and Beyond: filling the gaps of DP with Knapsack"
+  year: 2026
+  conference:
+    name: "46th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2026)"
+  doi: "10.4230/LIPIcs.FSTTCS.2026.25"
